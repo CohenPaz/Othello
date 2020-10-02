@@ -1,0 +1,26 @@
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\OthelloLogic.dll
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\OthelloLogic.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csprojAssemblyReference.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.OthelloGameForm.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.GameSettingsForm.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\OthelloLogic.dll
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\bin\Debug\OthelloLogic.pdb
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csprojAssemblyReference.cache
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.OthelloGameForm.resources
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.GameSettingsForm.resources
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\cohen\OneDrive\Desktop\מדמח\שנה 2 סמסטר ב\C#\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsUI\obj\Debug\WindowsUI.pdb

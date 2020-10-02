@@ -1,0 +1,7 @@
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 Eliran 308279629 Paz 205709439\OtheloLogic\obj\Debug\OtheloLogic.csprojAssemblyReference.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 Eliran 308279629 Paz 205709439\OtheloLogic\obj\Debug\OtheloLogic.csproj.CoreCompileInputs.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\OtheloLogic\bin\Debug\OtheloLogic.dll
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\OtheloLogic\bin\Debug\OtheloLogic.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\OtheloLogic\obj\Debug\OtheloLogic.csproj.CoreCompileInputs.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\OtheloLogic\obj\Debug\OtheloLogic.dll
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\OtheloLogic\obj\Debug\OtheloLogic.pdb

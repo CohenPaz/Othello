@@ -1,0 +1,13 @@
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.GameSettingsForm.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.csproj.GenerateResource.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.csproj.CoreCompileInputs.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\bin\Debug\WindowsAPI.exe
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\bin\Debug\WindowsAPI.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.exe
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.csprojAssemblyReference.cache
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.OthelloGameForm.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.PlayerNamesForm.resources
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\bin\Debug\OtheloLogic.dll
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\bin\Debug\OtheloLogic.pdb
+C:\Users\אלירן מסטור\source\repos\B19 Ex05 EliranMastor 308279629 PazCohen 205709439\WindowsAPI\obj\Debug\WindowsAPI.csproj.CopyComplete
